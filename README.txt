@@ -11,3 +11,6 @@
   i)  Refer Import Jenkins Job.doc  for Jenkins Job setup and configuration.
   ii) Refer High Priority Scenarios.doc for and AutomatedTestCaseDetailed.xls.
   iii) For one click Execution refer "Steps to Run Automation Job.doc"
+  
+ 3.Video Recroding of the one click automation through Jenkins -> ANT ->Selenium
+ Recording_QARetailAutomationOneClick.zip
